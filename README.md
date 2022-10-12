@@ -9,11 +9,18 @@
 
 ## General Information
 Collected information from 100k medical appointments in Brazil, load in the data, check for cleanliness. Then trimmed and cleaned the dataset to get the conclusion whether patients showed up for their appointment or not
+
 ### Dataset Description
  * ‘ScheduledDay’ tells us on what day the patient set up their appointment.
  * ‘Neighborhood’ indicates the location of the hospital.
  * ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
- * the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+ * ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+ * 
+### Questions we can ask for investigation
+* Did Age effect on attendance?!
+* Is there relation between age and Diseases?!
+* Is there relation between Neighbourhood and Attendance?!
+* Did received SMS effect on attendance?!
 
 ## Technologies
 Project is created with:
@@ -29,4 +36,8 @@ To run this project, install it locally then :
 !pip install seaborn 
 
 ```
+## Project Status
+Project is completed 
 
+## Contact
+Created by [@IsraaQutb]
