@@ -4,7 +4,13 @@ Project is created with:
 * Jupyter Notebook
 
 ## Setup
-To run this project, install it locally using Jupyter Notebook :
+To run this project, install it locally :
+
+```
+!pip install pandas 
+!pip install numpy 
+!pip install matplotlib 
+!pip install seaborn 
 
 ```
 
