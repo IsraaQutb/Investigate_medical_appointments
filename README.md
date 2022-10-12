@@ -40,4 +40,5 @@ To run this project, install it locally then :
 Project is completed 
 
 ## Contact
-Created by [@IsraaQutb]
+Created by [@IsraaQutb](https://github.com/IsraaQutb) - feel free to contact me!
+
