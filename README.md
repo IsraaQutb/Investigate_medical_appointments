@@ -15,7 +15,7 @@ Collected information from 100k medical appointments in Brazil, load in the data
  * `Neighborhood` indicates the location of the hospital.
  * `Scholarship` indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
  * `No` if the patient showed up to their appointment, and `Yes` if they did not show up.
- * 
+ 
 ### Questions we can ask for investigation
 * Did Age effect on attendance?!
 * Is there relation between age and Diseases?!
@@ -26,7 +26,7 @@ Collected information from 100k medical appointments in Brazil, load in the data
 ## Technologies
 Project is created with:
 * Jupyter Notebook
-* 
+
 <a id='setup'></a>
 ## Setup
 To run this project, install python libraries 
