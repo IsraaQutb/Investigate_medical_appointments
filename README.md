@@ -29,7 +29,7 @@ Project is created with:
 * 
 <a id='setup'></a>
 ## Setup
-To run this project, install it locally then :
+To run this project, install python libraries 
 
 ```
 !pip install pandas 
