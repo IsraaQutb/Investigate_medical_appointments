@@ -4,7 +4,7 @@ Project is created with:
 * Jupyter Notebook
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using Jupyter Notebook :
 
 ```
-$ cd ../lorem
+
