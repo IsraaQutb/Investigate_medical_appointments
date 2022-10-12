@@ -21,7 +21,7 @@ Collected information from 100k medical appointments in Brazil, load in the data
 * Is there relation between age and Diseases?!
 * Is there relation between Neighbourhood and Attendance?!
 * Did received SMS effect on attendance?!
-* 
+
 <a id='technologies'></a>
 ## Technologies
 Project is created with:
