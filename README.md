@@ -9,7 +9,7 @@
 
 ## General Information
 Collected information from 100k medical appointments in Brazil, load in the data, check for cleanliness. Then trimmed and cleaned the dataset to get the conclusion whether patients showed up for their appointment or not
--Dataset Description
+- Dataset Description
 
 ## Technologies
 Project is created with:
